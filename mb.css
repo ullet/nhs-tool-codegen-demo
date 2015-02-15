@@ -1,0 +1,13 @@
+div#myth-buster { width:32em;height:auto;padding:1em;margin-left:2em;margin-top:2em;border:solid 1px blue }
+div#myth-buster h3 { float:left; }
+div#myth-buster input.more-info { float:right; }
+div#myth-buster .back { float:right; }
+div#myth-buster input.more-info + p { clear:both; }
+div#myth-buster .back + p { clear:both; }
+div#myth-buster input.more-info + h4 { clear:both; }
+div#myth-buster .back + h4 { clear:both; }
+div#myth-buster input.more-info + div { clear:both; }
+div#myth-buster .back + div { clear:both; }
+div#myth-buster .counter { font-size: 0.7em; font-style: italic; color: #666;}
+div#myth-buster .question div.text { padding:1em;border:dashed 1px blue }
+div#myth-buster .explanation div.text { padding:1em;border:dashed 1px blue }
